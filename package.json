@@ -1,0 +1,23 @@
+{
+  "name": "fetch-reduce-data-api",
+  "version": "1.0.0",
+  "description": "Using:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaueviana/fetch-reduce-data-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaueviana/fetch-reduce-data-api/issues"
+  },
+  "homepage": "https://github.com/khaueviana/fetch-reduce-data-api#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
